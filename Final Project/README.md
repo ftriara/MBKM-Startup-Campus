@@ -9,3 +9,12 @@ Dalam melakukan perencanaan bisnis dan pengambilan keputusan, sangatlah penting 
 
 Dataset Origin: Terdiri dari 2 dataset yaitu transactions dan product yang dimulai dari bulan Juli 2016 hingga Juli 2022.
 Tujuan: Memprediksi pendapatan penjualan (sales revenue) dari masing-masing kategori produk supaya e-commerce dapat melakukan perencanaan bisnis dan pengambilan keputusan dengan tepat.
+
+
+🧍‍♀️🧍‍♂️**Anggota Tim Final Project Gaia**
+1. Fitria Rahmadani dari Universitas Sebelas Maret
+2. Anjar Ayuning Lestari dari STMIK IKMI CIREBON
+3. Muhammad Ilham Pradipta dari Universitas Islam Sultan Agung
+4. Nada Salsabila dari Universitas Pembangunan Nasional Veteran Jawa Timur
+5. Nurul Jumnatha Fajar Nofitasari dari Universitas Negeri Semarang
+6. Amos Hatoguan Sihombing dari Universitas Diponegoro
